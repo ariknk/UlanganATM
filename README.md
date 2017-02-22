@@ -1,14 +1,14 @@
 # UlanganATM
 #Laporan Hasil
 
-![Alt text](https://github.com/ariknk/UlanganATM/blob/master/1.PNG)
-![Alt text](https://github.com/ariknk/UlanganATM/blob/master/2.PNG)
-![Alt text](https://github.com/ariknk/UlanganATM/blob/master/3.PNG)
-![Alt text](https://github.com/ariknk/UlanganATM/blob/master/4.PNG)
-![Alt text](https://github.com/ariknk/UlanganATM/blob/master/5.PNG)
-![Alt text](https://github.com/ariknk/UlanganATM/blob/master/6.PNG)
-![Alt text](https://github.com/ariknk/UlanganATM/blob/master/7.PNG)
-![Alt text](https://github.com/ariknk/UlanganATM/blob/master/8.PNG)
+![Alt text](https://github.com/ariknk/UlanganATM/blob/master/1.PNG)<br>
+![Alt text](https://github.com/ariknk/UlanganATM/blob/master/2.PNG)<br>
+![Alt text](https://github.com/ariknk/UlanganATM/blob/master/3.PNG)<br>
+![Alt text](https://github.com/ariknk/UlanganATM/blob/master/4.PNG)<br>
+![Alt text](https://github.com/ariknk/UlanganATM/blob/master/5.PNG)<br>
+![Alt text](https://github.com/ariknk/UlanganATM/blob/master/6.PNG)<br>
+![Alt text](https://github.com/ariknk/UlanganATM/blob/master/7.PNG)<br>
+![Alt text](https://github.com/ariknk/UlanganATM/blob/master/8.PNG)<br>
 
 #Identitas
 Nama : Arik Nur Khoiriyah <br>
